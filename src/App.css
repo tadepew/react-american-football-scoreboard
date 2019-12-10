@@ -120,3 +120,11 @@
   margin: 1rem;
   border-radius: 4px;
 }
+
+.quarterButton {
+  margin: 1rem;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  margin: 0 auto;
+}
